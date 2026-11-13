@@ -1,0 +1,16 @@
+.env
+.venv/
+__pycache__/
+qdrant/
+results/
+datasets/
+*.log
+
+logs/
+qdrant*/
+*.bat.tmp
+tmp_videos/
+*.mp4
+* - 副本.pdf
+tmp_videos/
+*.mp4
